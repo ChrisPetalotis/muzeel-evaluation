@@ -14,11 +14,9 @@ generate_faulty_but_workable.*
 *.c
 *.m
 venv
-statistics/muzeel_*
+statistics/*
+!statistics/lacuna_statistics.csv
 ranges/*
-data/*
-data/muzeel/*
-!data/muzeel
 outputs_internal/*
 errors_internal/*
-plots/*
+.DS_Store
