@@ -17,6 +17,6 @@ venv
 statistics/*
 !statistics/lacuna_statistics.csv
 ranges/*
-outputs_internal/*
-errors_internal/*
+*_internal/*
 .DS_Store
+scrape_results_clone.py

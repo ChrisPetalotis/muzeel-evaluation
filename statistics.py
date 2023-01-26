@@ -13,8 +13,6 @@ SUBJECTS_PATH = os.path.join(script_dir, "todomvc/examples")
 GROUNDTRUTH_PATH = os.path.join(script_dir, "todomvc/examples.groundtruth")
 RANGES_PATH = os.path.join(script_dir, "ranges")
 
-# SUBJECTS_PATH = os.path.join(script_dir, "todomvc/subjects")
-# GROUNDTRUTH_PATH = os.path.join(script_dir, "todomvc/ground_truth")
 
 def db_connection():
     connection = pymysql.connect(
@@ -365,7 +363,9 @@ if __name__ == "__main__":
             ]
             writer.writerows([stats])
 
-    with open(f"{script_dir}/statistics/muzeel_descriptive_statistics_prf.csv", "w") as desc_statistics:
+    with open(
+        f"{script_dir}/statistics/muzeel_descriptive_statistics_prf.csv", "w"
+    ) as desc_statistics:
         writer = csv.writer(desc_statistics)
         header = [["Metric", "Min.", "Max.", "Median", "Mean", "SD", "CV"]]
         writer.writerows(header)

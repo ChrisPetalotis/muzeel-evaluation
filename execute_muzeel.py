@@ -12,7 +12,7 @@ with open(f"{script_dir}/endpoints.txt") as endpoints:
         with open(f"{script_dir}/sites_lists/site_list_1", "w") as sites_list:
             sites_list.write(endpoint)
 
-        print('Caching page...')
+        print("Caching page...")
         subprocess.call(
             [
                 sys.executable,
