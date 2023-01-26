@@ -1,0 +1,3074 @@
+[
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [2205, 2238],
+		"range": [2189, 2238],
+		"file": "node_modules/todomvc-common/base.js",
+		"index": 1,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [3091, 3136],
+		"range": [3076, 3136],
+		"file": "node_modules/todomvc-common/base.js",
+		"index": 3,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [3484, 3613],
+		"range": [3471, 3613],
+		"file": "node_modules/todomvc-common/base.js",
+		"index": 6,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [6058, 6215],
+		"range": [6038, 6215],
+		"file": "node_modules/todomvc-common/base.js",
+		"index": 12,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [6689, 7015],
+		"range": [6676, 7015],
+		"file": "node_modules/todomvc-common/base.js",
+		"index": 14,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [6479, 6550],
+		"range": [6466, 6550],
+		"file": "todomvc.bundle.js",
+		"index": 20,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [11751, 11779],
+		"range": [11739, 11779],
+		"file": "todomvc.bundle.js",
+		"index": 34,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [13303, 13305],
+		"range": [13291, 13305],
+		"file": "todomvc.bundle.js",
+		"index": 40,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [13629, 13656],
+		"range": [13605, 13656],
+		"file": "todomvc.bundle.js",
+		"index": 43,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [18969, 19011],
+		"range": [18952, 19011],
+		"file": "todomvc.bundle.js",
+		"index": 49,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [20239, 20650],
+		"range": [20212, 20650],
+		"file": "todomvc.bundle.js",
+		"index": 51,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [20682, 21943],
+		"range": [20663, 21943],
+		"file": "todomvc.bundle.js",
+		"index": 54,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [20937, 21393],
+		"range": [20914, 21393],
+		"file": "todomvc.bundle.js",
+		"index": 52,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [21499, 21762],
+		"range": [21476, 21762],
+		"file": "todomvc.bundle.js",
+		"index": 53,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [28810, 29035],
+		"range": [28795, 29035],
+		"file": "todomvc.bundle.js",
+		"index": 74,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [28869, 29026],
+		"range": [28858, 29026],
+		"file": "todomvc.bundle.js",
+		"index": 73,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [30197, 30510],
+		"range": [30163, 30510],
+		"file": "todomvc.bundle.js",
+		"index": 78,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [30346, 30426],
+		"range": [30335, 30426],
+		"file": "todomvc.bundle.js",
+		"index": 77,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [35382, 35622],
+		"range": [35366, 35622],
+		"file": "todomvc.bundle.js",
+		"index": 87,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [35553, 35592],
+		"range": [35538, 35592],
+		"file": "todomvc.bundle.js",
+		"index": 86,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [35751, 35779],
+		"range": [35740, 35779],
+		"file": "todomvc.bundle.js",
+		"index": 88,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [36977, 37034],
+		"range": [36962, 37034],
+		"file": "todomvc.bundle.js",
+		"index": 95,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [38372, 38507],
+		"range": [38360, 38507],
+		"file": "todomvc.bundle.js",
+		"index": 98,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [38883, 39105],
+		"range": [38871, 39105],
+		"file": "todomvc.bundle.js",
+		"index": 100,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [42256, 42874],
+		"range": [42244, 42874],
+		"file": "todomvc.bundle.js",
+		"index": 103,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [44319, 45592],
+		"range": [44290, 45592],
+		"file": "todomvc.bundle.js",
+		"index": 108,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [45771, 46068],
+		"range": [45732, 46068],
+		"file": "todomvc.bundle.js",
+		"index": 109,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [48749, 48827],
+		"range": [48720, 48827],
+		"file": "todomvc.bundle.js",
+		"index": 116,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [48989, 49059],
+		"range": [48971, 49059],
+		"file": "todomvc.bundle.js",
+		"index": 117,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [49883, 49952],
+		"range": [49856, 49952],
+		"file": "todomvc.bundle.js",
+		"index": 119,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [50897, 50927],
+		"range": [50865, 50927],
+		"file": "todomvc.bundle.js",
+		"index": 125,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [50968, 50998],
+		"range": [50936, 50998],
+		"file": "todomvc.bundle.js",
+		"index": 126,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [54535, 54815],
+		"range": [54502, 54815],
+		"file": "todomvc.bundle.js",
+		"index": 131,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [54718, 54789],
+		"range": [54689, 54789],
+		"file": "todomvc.bundle.js",
+		"index": 130,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [55117, 55663],
+		"range": [55078, 55663],
+		"file": "todomvc.bundle.js",
+		"index": 133,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [55425, 55588],
+		"range": [55396, 55588],
+		"file": "todomvc.bundle.js",
+		"index": 132,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [55874, 56626],
+		"range": [55835, 56626],
+		"file": "todomvc.bundle.js",
+		"index": 135,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [56330, 56551],
+		"range": [56301, 56551],
+		"file": "todomvc.bundle.js",
+		"index": 134,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [57170, 57475],
+		"range": [57136, 57475],
+		"file": "todomvc.bundle.js",
+		"index": 139,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [57366, 57449],
+		"range": [57337, 57449],
+		"file": "todomvc.bundle.js",
+		"index": 138,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [57584, 57721],
+		"range": [57550, 57721],
+		"file": "todomvc.bundle.js",
+		"index": 141,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [57640, 57706],
+		"range": [57611, 57706],
+		"file": "todomvc.bundle.js",
+		"index": 140,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [57930, 58292],
+		"range": [57896, 58292],
+		"file": "todomvc.bundle.js",
+		"index": 143,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [58165, 58265],
+		"range": [58136, 58265],
+		"file": "todomvc.bundle.js",
+		"index": 142,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [58753, 58852],
+		"range": [58724, 58852],
+		"file": "todomvc.bundle.js",
+		"index": 144,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [59034, 59241],
+		"range": [59012, 59241],
+		"file": "todomvc.bundle.js",
+		"index": 147,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [59197, 59235],
+		"range": [59181, 59235],
+		"file": "todomvc.bundle.js",
+		"index": 146,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [59348, 59548],
+		"range": [59326, 59548],
+		"file": "todomvc.bundle.js",
+		"index": 149,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [59468, 59542],
+		"range": [59452, 59542],
+		"file": "todomvc.bundle.js",
+		"index": 148,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [59659, 59704],
+		"range": [59640, 59704],
+		"file": "todomvc.bundle.js",
+		"index": 150,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [59866, 59915],
+		"range": [59845, 59915],
+		"file": "todomvc.bundle.js",
+		"index": 151,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [60081, 60128],
+		"range": [60060, 60128],
+		"file": "todomvc.bundle.js",
+		"index": 152,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [60381, 60827],
+		"range": [60348, 60827],
+		"file": "todomvc.bundle.js",
+		"index": 154,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [60609, 60802],
+		"range": [60580, 60802],
+		"file": "todomvc.bundle.js",
+		"index": 153,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [60937, 61381],
+		"range": [60904, 61381],
+		"file": "todomvc.bundle.js",
+		"index": 156,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [61163, 61356],
+		"range": [61134, 61356],
+		"file": "todomvc.bundle.js",
+		"index": 155,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [61547, 61775],
+		"range": [61533, 61775],
+		"file": "todomvc.bundle.js",
+		"index": 158,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [61635, 61748],
+		"range": [61619, 61748],
+		"file": "todomvc.bundle.js",
+		"index": 157,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [61996, 62192],
+		"range": [61972, 62192],
+		"file": "todomvc.bundle.js",
+		"index": 159,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [62290, 62410],
+		"range": [62274, 62410],
+		"file": "todomvc.bundle.js",
+		"index": 160,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [62529, 63037],
+		"range": [62496, 63037],
+		"file": "todomvc.bundle.js",
+		"index": 163,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [62631, 62767],
+		"range": [62602, 62767],
+		"file": "todomvc.bundle.js",
+		"index": 161,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [62796, 63021],
+		"range": [62774, 63021],
+		"file": "todomvc.bundle.js",
+		"index": 162,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [63187, 63431],
+		"range": [63154, 63431],
+		"file": "todomvc.bundle.js",
+		"index": 165,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [63294, 63402],
+		"range": [63271, 63402],
+		"file": "todomvc.bundle.js",
+		"index": 164,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [63627, 63706],
+		"range": [63598, 63706],
+		"file": "todomvc.bundle.js",
+		"index": 167,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [63896, 63926],
+		"range": [63867, 63926],
+		"file": "todomvc.bundle.js",
+		"index": 168,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [64138, 64201],
+		"range": [64116, 64201],
+		"file": "todomvc.bundle.js",
+		"index": 169,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [64415, 64706],
+		"range": [64375, 64706],
+		"file": "todomvc.bundle.js",
+		"index": 170,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [64799, 64970],
+		"range": [64785, 64970],
+		"file": "todomvc.bundle.js",
+		"index": 171,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [65047, 65158],
+		"range": [65033, 65158],
+		"file": "todomvc.bundle.js",
+		"index": 172,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [65451, 65603],
+		"range": [65425, 65603],
+		"file": "todomvc.bundle.js",
+		"index": 173,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [65890, 65975],
+		"range": [65864, 65975],
+		"file": "todomvc.bundle.js",
+		"index": 174,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [66652, 66717],
+		"range": [66626, 66717],
+		"file": "todomvc.bundle.js",
+		"index": 176,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [66796, 66841],
+		"range": [66780, 66841],
+		"file": "todomvc.bundle.js",
+		"index": 177,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [66957, 67303],
+		"range": [66924, 67303],
+		"file": "todomvc.bundle.js",
+		"index": 179,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [67087, 67278],
+		"range": [67071, 67278],
+		"file": "todomvc.bundle.js",
+		"index": 178,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [67424, 67469],
+		"range": [67399, 67469],
+		"file": "todomvc.bundle.js",
+		"index": 180,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [67583, 67646],
+		"range": [67567, 67646],
+		"file": "todomvc.bundle.js",
+		"index": 181,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [67843, 67994],
+		"range": [67816, 67994],
+		"file": "todomvc.bundle.js",
+		"index": 183,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [67906, 67963],
+		"range": [67891, 67963],
+		"file": "todomvc.bundle.js",
+		"index": 182,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [68234, 68703],
+		"range": [68189, 68703],
+		"file": "todomvc.bundle.js",
+		"index": 185,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [68505, 68677],
+		"range": [68482, 68677],
+		"file": "todomvc.bundle.js",
+		"index": 184,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [68837, 68889],
+		"range": [68826, 68889],
+		"file": "todomvc.bundle.js",
+		"index": 186,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [69020, 69221],
+		"range": [69004, 69221],
+		"file": "todomvc.bundle.js",
+		"index": 189,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [69113, 69215],
+		"range": [69098, 69215],
+		"file": "todomvc.bundle.js",
+		"index": 188,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [69158, 69207],
+		"range": [69142, 69207],
+		"file": "todomvc.bundle.js",
+		"index": 187,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [69398, 69551],
+		"range": [69382, 69551],
+		"file": "todomvc.bundle.js",
+		"index": 191,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [69509, 69545],
+		"range": [69494, 69545],
+		"file": "todomvc.bundle.js",
+		"index": 190,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [69678, 69896],
+		"range": [69667, 69896],
+		"file": "todomvc.bundle.js",
+		"index": 192,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [70126, 70392],
+		"range": [70103, 70392],
+		"file": "todomvc.bundle.js",
+		"index": 193,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [70851, 71345],
+		"range": [70819, 71345],
+		"file": "todomvc.bundle.js",
+		"index": 194,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [71466, 71807],
+		"range": [71438, 71807],
+		"file": "todomvc.bundle.js",
+		"index": 195,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [72062, 72396],
+		"range": [72034, 72396],
+		"file": "todomvc.bundle.js",
+		"index": 196,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [72536, 72538],
+		"range": [72526, 72538],
+		"file": "todomvc.bundle.js",
+		"index": 197,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [72994, 73340],
+		"range": [72983, 73340],
+		"file": "todomvc.bundle.js",
+		"index": 198,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [73614, 74000],
+		"range": [73599, 74000],
+		"file": "todomvc.bundle.js",
+		"index": 201,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [73684, 73995],
+		"range": [73673, 73995],
+		"file": "todomvc.bundle.js",
+		"index": 200,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [74227, 74440],
+		"range": [74213, 74440],
+		"file": "todomvc.bundle.js",
+		"index": 203,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [74385, 74418],
+		"range": [74373, 74418],
+		"file": "todomvc.bundle.js",
+		"index": 202,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [74539, 74765],
+		"range": [74516, 74765],
+		"file": "todomvc.bundle.js",
+		"index": 205,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [74619, 74760],
+		"range": [74608, 74760],
+		"file": "todomvc.bundle.js",
+		"index": 204,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [74914, 75035],
+		"range": [74893, 75035],
+		"file": "todomvc.bundle.js",
+		"index": 207,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [74989, 75023],
+		"range": [74979, 75023],
+		"file": "todomvc.bundle.js",
+		"index": 206,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [75157, 75235],
+		"range": [75142, 75235],
+		"file": "todomvc.bundle.js",
+		"index": 208,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [75670, 76503],
+		"range": [75640, 76503],
+		"file": "todomvc.bundle.js",
+		"index": 211,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [75807, 75965],
+		"range": [75796, 75965],
+		"file": "todomvc.bundle.js",
+		"index": 209,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [75989, 76498],
+		"range": [75978, 76498],
+		"file": "todomvc.bundle.js",
+		"index": 210,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [76830, 77545],
+		"range": [76798, 77545],
+		"file": "todomvc.bundle.js",
+		"index": 214,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [76911, 77193],
+		"range": [76900, 77193],
+		"file": "todomvc.bundle.js",
+		"index": 212,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [77218, 77540],
+		"range": [77207, 77540],
+		"file": "todomvc.bundle.js",
+		"index": 213,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [77708, 77897],
+		"range": [77693, 77897],
+		"file": "todomvc.bundle.js",
+		"index": 216,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [77759, 77892],
+		"range": [77748, 77892],
+		"file": "todomvc.bundle.js",
+		"index": 215,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [78124, 78166],
+		"range": [78100, 78166],
+		"file": "todomvc.bundle.js",
+		"index": 217,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [78333, 78551],
+		"range": [78322, 78551],
+		"file": "todomvc.bundle.js",
+		"index": 219,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [78384, 78546],
+		"range": [78373, 78546],
+		"file": "todomvc.bundle.js",
+		"index": 218,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [78667, 78780],
+		"range": [78645, 78780],
+		"file": "todomvc.bundle.js",
+		"index": 221,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [78691, 78775],
+		"range": [78680, 78775],
+		"file": "todomvc.bundle.js",
+		"index": 220,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [79228, 79423],
+		"range": [79214, 79423],
+		"file": "todomvc.bundle.js",
+		"index": 223,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [79512, 79715],
+		"range": [79498, 79715],
+		"file": "todomvc.bundle.js",
+		"index": 224,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [80971, 81168],
+		"range": [80957, 81168],
+		"file": "todomvc.bundle.js",
+		"index": 231,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [81253, 81471],
+		"range": [81239, 81471],
+		"file": "todomvc.bundle.js",
+		"index": 233,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [81307, 81449],
+		"range": [81290, 81449],
+		"file": "todomvc.bundle.js",
+		"index": 232,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [81555, 81659],
+		"range": [81541, 81659],
+		"file": "todomvc.bundle.js",
+		"index": 234,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [81911, 81954],
+		"range": [81884, 81954],
+		"file": "todomvc.bundle.js",
+		"index": 235,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [82058, 85850],
+		"range": [82027, 85850],
+		"file": "todomvc.bundle.js",
+		"index": 236,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [85948, 85982],
+		"range": [85933, 85982],
+		"file": "todomvc.bundle.js",
+		"index": 237,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [86118, 86302],
+		"range": [86104, 86302],
+		"file": "todomvc.bundle.js",
+		"index": 238,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [86372, 86419],
+		"range": [86358, 86419],
+		"file": "todomvc.bundle.js",
+		"index": 239,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [86546, 86602],
+		"range": [86532, 86602],
+		"file": "todomvc.bundle.js",
+		"index": 240,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [87198, 87251],
+		"range": [87184, 87251],
+		"file": "todomvc.bundle.js",
+		"index": 244,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [87494, 87552],
+		"range": [87480, 87552],
+		"file": "todomvc.bundle.js",
+		"index": 246,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [87666, 87714],
+		"range": [87652, 87714],
+		"file": "todomvc.bundle.js",
+		"index": 247,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [87780, 87871],
+		"range": [87766, 87871],
+		"file": "todomvc.bundle.js",
+		"index": 248,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [87938, 87968],
+		"range": [87924, 87968],
+		"file": "todomvc.bundle.js",
+		"index": 249,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88039, 88071],
+		"range": [88025, 88071],
+		"file": "todomvc.bundle.js",
+		"index": 250,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88235, 88282],
+		"range": [88216, 88282],
+		"file": "todomvc.bundle.js",
+		"index": 251,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88506, 88561],
+		"range": [88495, 88561],
+		"file": "todomvc.bundle.js",
+		"index": 252,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88657, 88680],
+		"range": [88641, 88680],
+		"file": "todomvc.bundle.js",
+		"index": 253,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88714, 88771],
+		"range": [88698, 88771],
+		"file": "todomvc.bundle.js",
+		"index": 255,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88739, 88766],
+		"range": [88727, 88766],
+		"file": "todomvc.bundle.js",
+		"index": 254,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88803, 88865],
+		"range": [88789, 88865],
+		"file": "todomvc.bundle.js",
+		"index": 257,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88830, 88860],
+		"range": [88816, 88860],
+		"file": "todomvc.bundle.js",
+		"index": 256,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [88992, 89226],
+		"range": [88976, 89226],
+		"file": "todomvc.bundle.js",
+		"index": 259,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [89019, 89222],
+		"range": [89005, 89222],
+		"file": "todomvc.bundle.js",
+		"index": 258,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [89305, 89437],
+		"range": [89274, 89437],
+		"file": "todomvc.bundle.js",
+		"index": 260,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [89534, 89662],
+		"range": [89515, 89662],
+		"file": "todomvc.bundle.js",
+		"index": 261,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [89771, 89803],
+		"range": [89760, 89803],
+		"file": "todomvc.bundle.js",
+		"index": 262,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [90465, 90636],
+		"range": [90448, 90636],
+		"file": "todomvc.bundle.js",
+		"index": 264,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [90578, 90628],
+		"range": [90562, 90628],
+		"file": "todomvc.bundle.js",
+		"index": 263,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [92606, 94421],
+		"range": [92575, 94421],
+		"file": "todomvc.bundle.js",
+		"index": 274,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [93157, 93632],
+		"range": [93102, 93632],
+		"file": "todomvc.bundle.js",
+		"index": 272,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [93243, 93276],
+		"range": [93227, 93276],
+		"file": "todomvc.bundle.js",
+		"index": 271,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [94174, 94222],
+		"range": [94159, 94222],
+		"file": "todomvc.bundle.js",
+		"index": 273,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [94515, 94547],
+		"range": [94501, 94547],
+		"file": "todomvc.bundle.js",
+		"index": 275,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [95231, 95426],
+		"range": [95220, 95426],
+		"file": "todomvc.bundle.js",
+		"index": 277,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [95612, 95691],
+		"range": [95601, 95691],
+		"file": "todomvc.bundle.js",
+		"index": 279,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [95800, 95852],
+		"range": [95789, 95852],
+		"file": "todomvc.bundle.js",
+		"index": 281,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [95939, 95974],
+		"range": [95928, 95974],
+		"file": "todomvc.bundle.js",
+		"index": 282,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [96587, 96610],
+		"range": [96576, 96610],
+		"file": "todomvc.bundle.js",
+		"index": 283,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [98191, 98237],
+		"range": [98179, 98237],
+		"file": "todomvc.bundle.js",
+		"index": 288,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [98388, 98441],
+		"range": [98376, 98441],
+		"file": "todomvc.bundle.js",
+		"index": 289,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [98577, 98625],
+		"range": [98565, 98625],
+		"file": "todomvc.bundle.js",
+		"index": 290,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [98732, 98776],
+		"range": [98720, 98776],
+		"file": "todomvc.bundle.js",
+		"index": 291,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [98850, 98898],
+		"range": [98834, 98898],
+		"file": "todomvc.bundle.js",
+		"index": 292,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [98990, 99077],
+		"range": [98971, 99077],
+		"file": "todomvc.bundle.js",
+		"index": 293,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [99232, 99260],
+		"range": [99207, 99260],
+		"file": "todomvc.bundle.js",
+		"index": 294,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [99535, 99592],
+		"range": [99513, 99592],
+		"file": "todomvc.bundle.js",
+		"index": 295,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [99657, 99714],
+		"range": [99635, 99714],
+		"file": "todomvc.bundle.js",
+		"index": 296,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [105486, 106052],
+		"range": [105466, 106052],
+		"file": "todomvc.bundle.js",
+		"index": 302,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [106190, 106247],
+		"range": [106178, 106247],
+		"file": "todomvc.bundle.js",
+		"index": 303,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [106439, 106549],
+		"range": [106423, 106549],
+		"file": "todomvc.bundle.js",
+		"index": 304,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [107017, 107533],
+		"range": [107001, 107533],
+		"file": "todomvc.bundle.js",
+		"index": 305,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [107560, 107600],
+		"range": [107548, 107600],
+		"file": "todomvc.bundle.js",
+		"index": 306,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [107639, 107960],
+		"range": [107614, 107960],
+		"file": "todomvc.bundle.js",
+		"index": 307,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [107993, 108153],
+		"range": [107974, 108153],
+		"file": "todomvc.bundle.js",
+		"index": 309,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [108075, 108124],
+		"range": [108060, 108124],
+		"file": "todomvc.bundle.js",
+		"index": 308,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [108186, 108328],
+		"range": [108170, 108328],
+		"file": "todomvc.bundle.js",
+		"index": 310,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [108416, 108514],
+		"range": [108400, 108514],
+		"file": "todomvc.bundle.js",
+		"index": 311,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [109412, 109489],
+		"range": [109379, 109489],
+		"file": "todomvc.bundle.js",
+		"index": 314,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [113303, 113579],
+		"range": [113291, 113579],
+		"file": "todomvc.bundle.js",
+		"index": 328,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [113819, 113976],
+		"range": [113807, 113976],
+		"file": "todomvc.bundle.js",
+		"index": 330,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [114024, 114040],
+		"range": [114012, 114040],
+		"file": "todomvc.bundle.js",
+		"index": 331,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [114067, 114070],
+		"range": [114055, 114070],
+		"file": "todomvc.bundle.js",
+		"index": 332,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [116839, 116951],
+		"range": [116827, 116951],
+		"file": "todomvc.bundle.js",
+		"index": 338,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [117024, 117058],
+		"range": [117012, 117058],
+		"file": "todomvc.bundle.js",
+		"index": 340,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [117109, 117768],
+		"range": [117091, 117768],
+		"file": "todomvc.bundle.js",
+		"index": 341,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [117798, 117843],
+		"range": [117783, 117843],
+		"file": "todomvc.bundle.js",
+		"index": 342,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [117874, 117916],
+		"range": [117862, 117916],
+		"file": "todomvc.bundle.js",
+		"index": 343,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [117968, 118110],
+		"range": [117950, 118110],
+		"file": "todomvc.bundle.js",
+		"index": 344,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [118141, 118175],
+		"range": [118129, 118175],
+		"file": "todomvc.bundle.js",
+		"index": 345,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [118228, 118730],
+		"range": [118210, 118730],
+		"file": "todomvc.bundle.js",
+		"index": 346,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [118761, 118795],
+		"range": [118749, 118795],
+		"file": "todomvc.bundle.js",
+		"index": 347,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [122851, 122937],
+		"range": [122822, 122937],
+		"file": "todomvc.bundle.js",
+		"index": 357,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [123502, 123656],
+		"range": [123463, 123656],
+		"file": "todomvc.bundle.js",
+		"index": 361,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [123701, 123731],
+		"range": [123669, 123731],
+		"file": "todomvc.bundle.js",
+		"index": 363,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [124174, 124436],
+		"range": [124159, 124436],
+		"file": "todomvc.bundle.js",
+		"index": 368,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [124302, 124426],
+		"range": [124279, 124426],
+		"file": "todomvc.bundle.js",
+		"index": 367,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [126933, 126984],
+		"range": [126917, 126984],
+		"file": "todomvc.bundle.js",
+		"index": 372,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [127030, 127088],
+		"range": [127007, 127088],
+		"file": "todomvc.bundle.js",
+		"index": 373,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [127287, 127370],
+		"range": [127239, 127370],
+		"file": "todomvc.bundle.js",
+		"index": 375,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [127400, 127452],
+		"range": [127389, 127452],
+		"file": "todomvc.bundle.js",
+		"index": 376,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [128766, 129190],
+		"range": [128733, 129190],
+		"file": "todomvc.bundle.js",
+		"index": 380,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [130098, 130599],
+		"range": [130059, 130599],
+		"file": "todomvc.bundle.js",
+		"index": 382,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [130734, 130973],
+		"range": [130700, 130973],
+		"file": "todomvc.bundle.js",
+		"index": 384,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [130845, 130948],
+		"range": [130816, 130948],
+		"file": "todomvc.bundle.js",
+		"index": 383,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [131471, 131544],
+		"range": [131437, 131544],
+		"file": "todomvc.bundle.js",
+		"index": 387,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [132239, 132637],
+		"range": [132205, 132637],
+		"file": "todomvc.bundle.js",
+		"index": 389,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [133036, 133236],
+		"range": [133014, 133236],
+		"file": "todomvc.bundle.js",
+		"index": 392,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [133156, 133230],
+		"range": [133140, 133230],
+		"file": "todomvc.bundle.js",
+		"index": 391,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [133347, 133392],
+		"range": [133328, 133392],
+		"file": "todomvc.bundle.js",
+		"index": 393,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [133554, 133603],
+		"range": [133533, 133603],
+		"file": "todomvc.bundle.js",
+		"index": 394,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [133769, 133816],
+		"range": [133748, 133816],
+		"file": "todomvc.bundle.js",
+		"index": 395,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [133926, 134629],
+		"range": [133893, 134629],
+		"file": "todomvc.bundle.js",
+		"index": 397,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [134380, 134598],
+		"range": [134351, 134598],
+		"file": "todomvc.bundle.js",
+		"index": 396,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [134739, 135438],
+		"range": [134706, 135438],
+		"file": "todomvc.bundle.js",
+		"index": 399,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [135191, 135407],
+		"range": [135162, 135407],
+		"file": "todomvc.bundle.js",
+		"index": 398,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [135608, 135959],
+		"range": [135594, 135959],
+		"file": "todomvc.bundle.js",
+		"index": 400,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [136180, 136376],
+		"range": [136156, 136376],
+		"file": "todomvc.bundle.js",
+		"index": 401,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [136495, 136994],
+		"range": [136462, 136994],
+		"file": "todomvc.bundle.js",
+		"index": 404,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [136602, 136724],
+		"range": [136573, 136724],
+		"file": "todomvc.bundle.js",
+		"index": 402,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [136753, 136978],
+		"range": [136731, 136978],
+		"file": "todomvc.bundle.js",
+		"index": 403,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [137144, 137381],
+		"range": [137111, 137381],
+		"file": "todomvc.bundle.js",
+		"index": 406,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [137258, 137352],
+		"range": [137235, 137352],
+		"file": "todomvc.bundle.js",
+		"index": 405,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [137577, 137663],
+		"range": [137548, 137663],
+		"file": "todomvc.bundle.js",
+		"index": 408,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [137853, 137883],
+		"range": [137824, 137883],
+		"file": "todomvc.bundle.js",
+		"index": 409,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [138102, 138172],
+		"range": [138073, 138172],
+		"file": "todomvc.bundle.js",
+		"index": 410,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [138386, 138662],
+		"range": [138346, 138662],
+		"file": "todomvc.bundle.js",
+		"index": 411,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [138755, 138926],
+		"range": [138741, 138926],
+		"file": "todomvc.bundle.js",
+		"index": 412,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [139003, 139112],
+		"range": [138989, 139112],
+		"file": "todomvc.bundle.js",
+		"index": 413,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [139320, 139542],
+		"range": [139286, 139542],
+		"file": "todomvc.bundle.js",
+		"index": 415,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [139442, 139511],
+		"range": [139416, 139511],
+		"file": "todomvc.bundle.js",
+		"index": 414,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [139835, 139985],
+		"range": [139809, 139985],
+		"file": "todomvc.bundle.js",
+		"index": 416,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [140272, 140368],
+		"range": [140246, 140368],
+		"file": "todomvc.bundle.js",
+		"index": 417,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [140562, 140726],
+		"range": [140536, 140726],
+		"file": "todomvc.bundle.js",
+		"index": 418,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [141043, 141106],
+		"range": [141017, 141106],
+		"file": "todomvc.bundle.js",
+		"index": 419,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [141185, 141230],
+		"range": [141169, 141230],
+		"file": "todomvc.bundle.js",
+		"index": 420,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [141923, 141975],
+		"range": [141898, 141975],
+		"file": "todomvc.bundle.js",
+		"index": 422,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [142089, 142152],
+		"range": [142073, 142152],
+		"file": "todomvc.bundle.js",
+		"index": 423,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [143474, 143885],
+		"range": [143458, 143885],
+		"file": "todomvc.bundle.js",
+		"index": 426,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [144356, 144587],
+		"range": [144340, 144587],
+		"file": "todomvc.bundle.js",
+		"index": 429,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [144817, 145083],
+		"range": [144794, 145083],
+		"file": "todomvc.bundle.js",
+		"index": 430,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [145813, 146061],
+		"range": [145785, 146061],
+		"file": "todomvc.bundle.js",
+		"index": 432,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [146316, 146632],
+		"range": [146288, 146632],
+		"file": "todomvc.bundle.js",
+		"index": 433,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [146772, 146774],
+		"range": [146762, 146774],
+		"file": "todomvc.bundle.js",
+		"index": 434,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [147260, 147599],
+		"range": [147249, 147599],
+		"file": "todomvc.bundle.js",
+		"index": 435,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [147961, 148272],
+		"range": [147950, 148272],
+		"file": "todomvc.bundle.js",
+		"index": 437,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [148504, 148754],
+		"range": [148490, 148754],
+		"file": "todomvc.bundle.js",
+		"index": 439,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [148853, 149151],
+		"range": [148830, 149151],
+		"file": "todomvc.bundle.js",
+		"index": 441,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [148887, 149102],
+		"range": [148873, 149102],
+		"file": "todomvc.bundle.js",
+		"index": 440,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [149300, 149431],
+		"range": [149279, 149431],
+		"file": "todomvc.bundle.js",
+		"index": 443,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [149375, 149419],
+		"range": [149365, 149419],
+		"file": "todomvc.bundle.js",
+		"index": 442,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [149553, 149631],
+		"range": [149538, 149631],
+		"file": "todomvc.bundle.js",
+		"index": 444,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [150066, 150948],
+		"range": [150036, 150948],
+		"file": "todomvc.bundle.js",
+		"index": 447,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [150204, 150376],
+		"range": [150193, 150376],
+		"file": "todomvc.bundle.js",
+		"index": 445,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [150400, 150943],
+		"range": [150389, 150943],
+		"file": "todomvc.bundle.js",
+		"index": 446,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [151275, 151999],
+		"range": [151243, 151999],
+		"file": "todomvc.bundle.js",
+		"index": 450,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [151356, 151665],
+		"range": [151345, 151665],
+		"file": "todomvc.bundle.js",
+		"index": 448,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [151690, 151994],
+		"range": [151679, 151994],
+		"file": "todomvc.bundle.js",
+		"index": 449,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [152226, 152268],
+		"range": [152202, 152268],
+		"file": "todomvc.bundle.js",
+		"index": 451,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [152363, 152447],
+		"range": [152343, 152447],
+		"file": "todomvc.bundle.js",
+		"index": 453,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [152387, 152442],
+		"range": [152376, 152442],
+		"file": "todomvc.bundle.js",
+		"index": 452,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [152614, 152861],
+		"range": [152603, 152861],
+		"file": "todomvc.bundle.js",
+		"index": 455,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [152697, 152856],
+		"range": [152686, 152856],
+		"file": "todomvc.bundle.js",
+		"index": 454,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [152977, 153090],
+		"range": [152955, 153090],
+		"file": "todomvc.bundle.js",
+		"index": 457,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [153001, 153085],
+		"range": [152990, 153085],
+		"file": "todomvc.bundle.js",
+		"index": 456,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [153208, 153390],
+		"range": [153186, 153390],
+		"file": "todomvc.bundle.js",
+		"index": 459,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [153246, 153385],
+		"range": [153235, 153385],
+		"file": "todomvc.bundle.js",
+		"index": 458,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [154008, 154199],
+		"range": [153994, 154199],
+		"file": "todomvc.bundle.js",
+		"index": 461,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [154288, 154487],
+		"range": [154274, 154487],
+		"file": "todomvc.bundle.js",
+		"index": 462,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [155597, 156143],
+		"range": [155564, 156143],
+		"file": "todomvc.bundle.js",
+		"index": 466,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [156260, 156562],
+		"range": [156227, 156562],
+		"file": "todomvc.bundle.js",
+		"index": 468,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [156460, 156508],
+		"range": [156439, 156508],
+		"file": "todomvc.bundle.js",
+		"index": 467,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [156996, 157100],
+		"range": [156982, 157100],
+		"file": "todomvc.bundle.js",
+		"index": 470,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [157352, 157395],
+		"range": [157325, 157395],
+		"file": "todomvc.bundle.js",
+		"index": 471,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [161450, 161656],
+		"range": [161436, 161656],
+		"file": "todomvc.bundle.js",
+		"index": 474,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [161726, 161773],
+		"range": [161712, 161773],
+		"file": "todomvc.bundle.js",
+		"index": 475,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [161900, 161957],
+		"range": [161886, 161957],
+		"file": "todomvc.bundle.js",
+		"index": 476,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [162613, 162655],
+		"range": [162599, 162655],
+		"file": "todomvc.bundle.js",
+		"index": 480,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [162930, 162988],
+		"range": [162916, 162988],
+		"file": "todomvc.bundle.js",
+		"index": 482,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [163102, 163151],
+		"range": [163088, 163151],
+		"file": "todomvc.bundle.js",
+		"index": 483,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [163673, 163735],
+		"range": [163654, 163735],
+		"file": "todomvc.bundle.js",
+		"index": 487,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [163959, 164014],
+		"range": [163948, 164014],
+		"file": "todomvc.bundle.js",
+		"index": 488,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164110, 164133],
+		"range": [164094, 164133],
+		"file": "todomvc.bundle.js",
+		"index": 489,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164167, 164223],
+		"range": [164151, 164223],
+		"file": "todomvc.bundle.js",
+		"index": 491,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164191, 164218],
+		"range": [164180, 164218],
+		"file": "todomvc.bundle.js",
+		"index": 490,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164247, 164249],
+		"range": [164237, 164249],
+		"file": "todomvc.bundle.js",
+		"index": 492,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164281, 164343],
+		"range": [164267, 164343],
+		"file": "todomvc.bundle.js",
+		"index": 494,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164308, 164338],
+		"range": [164294, 164338],
+		"file": "todomvc.bundle.js",
+		"index": 493,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164470, 164809],
+		"range": [164454, 164809],
+		"file": "todomvc.bundle.js",
+		"index": 496,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164552, 164804],
+		"range": [164538, 164804],
+		"file": "todomvc.bundle.js",
+		"index": 495,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [164888, 165059],
+		"range": [164857, 165059],
+		"file": "todomvc.bundle.js",
+		"index": 497,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [165156, 165284],
+		"range": [165137, 165284],
+		"file": "todomvc.bundle.js",
+		"index": 498,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [165393, 165431],
+		"range": [165382, 165431],
+		"file": "todomvc.bundle.js",
+		"index": 499,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [165802, 165834],
+		"range": [165786, 165834],
+		"file": "todomvc.bundle.js",
+		"index": 500,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [166062, 166207],
+		"range": [166045, 166207],
+		"file": "todomvc.bundle.js",
+		"index": 501,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [167651, 167690],
+		"range": [167635, 167690],
+		"file": "todomvc.bundle.js",
+		"index": 505,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [168023, 169885],
+		"range": [167985, 169885],
+		"file": "todomvc.bundle.js",
+		"index": 508,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [168612, 169112],
+		"range": [168557, 169112],
+		"file": "todomvc.bundle.js",
+		"index": 506,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [169620, 169668],
+		"range": [169605, 169668],
+		"file": "todomvc.bundle.js",
+		"index": 507,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [169987, 170068],
+		"range": [169973, 170068],
+		"file": "todomvc.bundle.js",
+		"index": 509,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [171117, 171314],
+		"range": [171106, 171314],
+		"file": "todomvc.bundle.js",
+		"index": 514,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [171502, 171581],
+		"range": [171491, 171581],
+		"file": "todomvc.bundle.js",
+		"index": 516,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [171683, 171714],
+		"range": [171672, 171714],
+		"file": "todomvc.bundle.js",
+		"index": 518,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [172321, 172344],
+		"range": [172310, 172344],
+		"file": "todomvc.bundle.js",
+		"index": 519,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [173077, 173145],
+		"range": [173059, 173145],
+		"file": "todomvc.bundle.js",
+		"index": 523,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [173223, 173294],
+		"range": [173205, 173294],
+		"file": "todomvc.bundle.js",
+		"index": 524,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [174073, 174196],
+		"range": [174045, 174196],
+		"file": "todomvc.bundle.js",
+		"index": 528,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [174266, 174406],
+		"range": [174248, 174406],
+		"file": "todomvc.bundle.js",
+		"index": 529,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [175141, 175204],
+		"range": [175125, 175204],
+		"file": "todomvc.bundle.js",
+		"index": 534,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [178124, 178166],
+		"range": [178112, 178166],
+		"file": "todomvc.bundle.js",
+		"index": 543,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [178611, 178641],
+		"range": [178579, 178641],
+		"file": "todomvc.bundle.js",
+		"index": 547,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [179860, 180072],
+		"range": [179834, 180072],
+		"file": "todomvc.bundle.js",
+		"index": 551,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [179932, 180007],
+		"range": [179915, 180007],
+		"file": "todomvc.bundle.js",
+		"index": 550,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [180201, 180524],
+		"range": [180177, 180524],
+		"file": "todomvc.bundle.js",
+		"index": 554,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [180317, 180520],
+		"range": [180300, 180520],
+		"file": "todomvc.bundle.js",
+		"index": 553,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [180653, 180692],
+		"range": [180636, 180692],
+		"file": "todomvc.bundle.js",
+		"index": 555,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [180784, 180834],
+		"range": [180768, 180834],
+		"file": "todomvc.bundle.js",
+		"index": 556,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [180920, 180950],
+		"range": [180888, 180950],
+		"file": "todomvc.bundle.js",
+		"index": 558,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [183204, 183256],
+		"range": [183192, 183256],
+		"file": "todomvc.bundle.js",
+		"index": 567,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [184420, 184680],
+		"range": [184400, 184680],
+		"file": "todomvc.bundle.js",
+		"index": 569,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [185316, 185383],
+		"range": [185304, 185383],
+		"file": "todomvc.bundle.js",
+		"index": 572,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [188541, 188783],
+		"range": [188514, 188783],
+		"file": "todomvc.bundle.js",
+		"index": 580,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [189862, 190830],
+		"range": [189837, 190830],
+		"file": "todomvc.bundle.js",
+		"index": 588,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [190097, 190242],
+		"range": [190083, 190242],
+		"file": "todomvc.bundle.js",
+		"index": 586,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionDeclaration",
+		"bodyRange": [190280, 190738],
+		"range": [190262, 190738],
+		"file": "todomvc.bundle.js",
+		"index": 587,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [192555, 192654],
+		"range": [192539, 192654],
+		"file": "todomvc.bundle.js",
+		"index": 590,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [192834, 192947],
+		"range": [192799, 192947],
+		"file": "todomvc.bundle.js",
+		"index": 591,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [195395, 195472],
+		"range": [195383, 195472],
+		"file": "todomvc.bundle.js",
+		"index": 597,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [195668, 195927],
+		"range": [195651, 195927],
+		"file": "todomvc.bundle.js",
+		"index": 600,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [195971, 196057],
+		"range": [195954, 196057],
+		"file": "todomvc.bundle.js",
+		"index": 601,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [198941, 199291],
+		"range": [198929, 199291],
+		"file": "todomvc.bundle.js",
+		"index": 610,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [199573, 199603],
+		"range": [199541, 199603],
+		"file": "todomvc.bundle.js",
+		"index": 613,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [200818, 201161],
+		"range": [200803, 201161],
+		"file": "todomvc.bundle.js",
+		"index": 614,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [201994, 202219],
+		"range": [201979, 202219],
+		"file": "todomvc.bundle.js",
+		"index": 619,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [202053, 202210],
+		"range": [202042, 202210],
+		"file": "todomvc.bundle.js",
+		"index": 618,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [202899, 203204],
+		"range": [202865, 203204],
+		"file": "todomvc.bundle.js",
+		"index": 621,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [203381, 203694],
+		"range": [203347, 203694],
+		"file": "todomvc.bundle.js",
+		"index": 623,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [203530, 203610],
+		"range": [203519, 203610],
+		"file": "todomvc.bundle.js",
+		"index": 622,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [203985, 204897],
+		"range": [203951, 204897],
+		"file": "todomvc.bundle.js",
+		"index": 624,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [205225, 205580],
+		"range": [205210, 205580],
+		"file": "todomvc.bundle.js",
+		"index": 625,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [205759, 206162],
+		"range": [205729, 206162],
+		"file": "todomvc.bundle.js",
+		"index": 626,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [206485, 206996],
+		"range": [206451, 206996],
+		"file": "todomvc.bundle.js",
+		"index": 627,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [207234, 207767],
+		"range": [207211, 207767],
+		"file": "todomvc.bundle.js",
+		"index": 628,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [208566, 208806],
+		"range": [208550, 208806],
+		"file": "todomvc.bundle.js",
+		"index": 632,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [208737, 208776],
+		"range": [208722, 208776],
+		"file": "todomvc.bundle.js",
+		"index": 631,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [208935, 208963],
+		"range": [208924, 208963],
+		"file": "todomvc.bundle.js",
+		"index": 633,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [211231, 211408],
+		"range": [211210, 211408],
+		"file": "todomvc.bundle.js",
+		"index": 643,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [211295, 211361],
+		"range": [211278, 211361],
+		"file": "todomvc.bundle.js",
+		"index": 642,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [211684, 211872],
+		"range": [211663, 211872],
+		"file": "todomvc.bundle.js",
+		"index": 647,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [211748, 211825],
+		"range": [211731, 211825],
+		"file": "todomvc.bundle.js",
+		"index": 646,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [212030, 212331],
+		"range": [212009, 212331],
+		"file": "todomvc.bundle.js",
+		"index": 650,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [212143, 212284],
+		"range": [212126, 212284],
+		"file": "todomvc.bundle.js",
+		"index": 649,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [212191, 212268],
+		"range": [212175, 212268],
+		"file": "todomvc.bundle.js",
+		"index": 648,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [212981, 213439],
+		"range": [212960, 213439],
+		"file": "todomvc.bundle.js",
+		"index": 656,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [213148, 213423],
+		"range": [213131, 213423],
+		"file": "todomvc.bundle.js",
+		"index": 655,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [213202, 213277],
+		"range": [213188, 213277],
+		"file": "todomvc.bundle.js",
+		"index": 653,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [213331, 213403],
+		"range": [213317, 213403],
+		"file": "todomvc.bundle.js",
+		"index": 654,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [214620, 214696],
+		"range": [214603, 214696],
+		"file": "todomvc.bundle.js",
+		"index": 664,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [215093, 215329],
+		"range": [215072, 215329],
+		"file": "todomvc.bundle.js",
+		"index": 669,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [215218, 215303],
+		"range": [215201, 215303],
+		"file": "todomvc.bundle.js",
+		"index": 668,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [217460, 217554],
+		"range": [217429, 217554],
+		"file": "todomvc.bundle.js",
+		"index": 680,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionDeclaration",
+		"bodyRange": [218832, 218998],
+		"range": [218805, 218998],
+		"file": "todomvc.bundle.js",
+		"index": 689,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [219978, 220240],
+		"range": [219963, 220240],
+		"file": "todomvc.bundle.js",
+		"index": 699,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [220106, 220230],
+		"range": [220083, 220230],
+		"file": "todomvc.bundle.js",
+		"index": 698,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [220348, 220576],
+		"range": [220329, 220576],
+		"file": "todomvc.bundle.js",
+		"index": 700,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [221047, 221268],
+		"range": [221028, 221268],
+		"file": "todomvc.bundle.js",
+		"index": 702,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [221369, 221508],
+		"range": [221341, 221508],
+		"file": "todomvc.bundle.js",
+		"index": 704,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [221456, 221504],
+		"range": [221442, 221504],
+		"file": "todomvc.bundle.js",
+		"index": 703,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [227604, 227740],
+		"range": [227589, 227740],
+		"file": "todomvc.bundle.js",
+		"index": 714,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [228796, 228863],
+		"range": [228765, 228863],
+		"file": "todomvc.bundle.js",
+		"index": 718,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [230000, 230106],
+		"range": [229969, 230106],
+		"file": "todomvc.bundle.js",
+		"index": 722,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionDeclaration",
+		"bodyRange": [233915, 233950],
+		"range": [233900, 233950],
+		"file": "todomvc.bundle.js",
+		"index": 737,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [234552, 234586],
+		"range": [234541, 234586],
+		"file": "todomvc.bundle.js",
+		"index": 740,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [235084, 235571],
+		"range": [235063, 235571],
+		"file": "todomvc.bundle.js",
+		"index": 743,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionDeclaration",
+		"bodyRange": [235684, 235723],
+		"range": [235664, 235723],
+		"file": "todomvc.bundle.js",
+		"index": 744,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionDeclaration",
+		"bodyRange": [235861, 235946],
+		"range": [235835, 235946],
+		"file": "todomvc.bundle.js",
+		"index": 745,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [236115, 236453],
+		"range": [236084, 236453],
+		"file": "todomvc.bundle.js",
+		"index": 746,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [236673, 237119],
+		"range": [236633, 237119],
+		"file": "todomvc.bundle.js",
+		"index": 747,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [237284, 237691],
+		"range": [237258, 237691],
+		"file": "todomvc.bundle.js",
+		"index": 748,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [237842, 238048],
+		"range": [237821, 238048],
+		"file": "todomvc.bundle.js",
+		"index": 749,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [238312, 239125],
+		"range": [238268, 239125],
+		"file": "todomvc.bundle.js",
+		"index": 751,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [238826, 238947],
+		"range": [238809, 238947],
+		"file": "todomvc.bundle.js",
+		"index": 750,
+		"label": "ampersand"
+	},
+	{
+		"type": "FunctionExpression",
+		"bodyRange": [239175, 239179],
+		"range": [239143, 239179],
+		"file": "todomvc.bundle.js",
+		"index": 753,
+		"label": "ampersand"
+	}
+]

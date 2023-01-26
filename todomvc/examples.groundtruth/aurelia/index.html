@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en" data-framework="aurelia">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aurelia • TodoMVC</title>
+  <link rel="stylesheet" type="text/css" href="jspm_packages/npm/todomvc-common@1.0.2/base.css">
+  <link rel="stylesheet" type="text/css" href="jspm_packages/npm/todomvc-app-css@2.0.4/index.css">
+</head>
+<body>
+  <section class="todoapp" aurelia-app="main">
+    <!-- this is where Aurelia will fill out the content -->
+  </section>
+
+  <footer class="info">
+    <p>Double-click to edit a todo</p>
+    <p>Created by <a href="http://marcelhoyer.de">Marcel Hoyer</a></p>
+    <p>Part of <a href="http://todomvc.com">TodoMVC</a></p>
+  </footer>
+
+  <!-- Scripts here. Don't remove ↓ -->
+  <script src="jspm_packages/npm/todomvc-common@1.0.2/base.js"></script>
+  <script src="jspm_packages/system.js"></script>
+  <script src="config.js"></script>
+  <script>/** (github.com/dynamic-deadfunction-detector)
+* Instrumentation log function used by the instrumenter
+* note that the data object is already stringified.
+*/
+var logHistory = [];
+function instrumentation_log(data) {
+    
+                function exists(e) { return e.file == jData.file && e.range[0] == jData.range[0] && e.range[1] == jData.range[1]; }
+                var jData = JSON.parse(data);
+                if (logHistory.some(exists)){ return; }
+                logHistory.push(jData);
+    fetch("http://127.0.0.1:8004/alivefunction", {
+                method: "POST",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: data
+            }).then((response) => { });
+}
+
+
+
+    System.import('aurelia-bootstrapper');
+  </script>
+</body>
+</html>

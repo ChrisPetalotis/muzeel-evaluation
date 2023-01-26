@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en" data-framework="rappidjs">
+	<head>
+		<meta charset="utf-8">
+		<title>rAppid.js • TodoMVC</title>
+		<link rel="stylesheet" href="node_modules/todomvc-common/base.css">
+		<link rel="stylesheet" href="node_modules/todomvc-app-css/index.css">
+		<style>
+			.hide {
+				display: none;
+			}
+		</style>
+	</head>
+	<body>
+		<script src="node_modules/todomvc-common/base.js"></script>
+		<script src="app/lib/rappidjs.min.js"></script>
+		<script>/** (github.com/dynamic-deadfunction-detector)
+* Instrumentation log function used by the instrumenter
+* note that the data object is already stringified.
+*/
+var logHistory = [];
+function instrumentation_log(data) {
+    
+                function exists(e) { return e.file == jData.file && e.range[0] == jData.range[0] && e.range[1] == jData.range[1]; }
+                var jData = JSON.parse(data);
+                if (logHistory.some(exists)){ return; }
+                logHistory.push(jData);
+    fetch("http://127.0.0.1:8004/alivefunction", {
+                method: "POST",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: data
+            }).then((response) => { });
+}
+
+
+
+			rAppid.bootStrap('app/Todo.xml', 'config.json', function (err, systemManager, application) {instrumentation_log('{"type":"FunctionExpression","bodyRange":[95,253],"range":[52,253],"file":"./todomvc/examples.lacunized.instrumented/rappidjs/index.html","index":1,"label":"rappidjs"}');
+				if (!err) {
+					application.start(null, function () {instrumentation_log('{"type":"FunctionExpression","bodyRange":[154,203],"range":[142,203],"file":"./todomvc/examples.lacunized.instrumented/rappidjs/index.html","index":0,"label":"rappidjs"}');
+						application.render(document.body);
+					});
+				} else {
+					console.warn(err);
+				}
+			});
+		</script>
+	</body>
+</html>
