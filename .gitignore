@@ -16,6 +16,7 @@ generate_faulty_but_workable.*
 venv
 statistics/*
 !statistics/lacuna_statistics.csv
+plots/*
 ranges/*
 *_internal/*
 .DS_Store

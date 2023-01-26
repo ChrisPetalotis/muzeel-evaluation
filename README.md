@@ -16,7 +16,7 @@ The steps described in this file were executed on a machine with the following h
 - node version: 18.12.1
 - npm version: 8.19.2
 - python: 3.10.9
-- Hardware: Macbook pro (M1 chip), 16GB ram
+- Hardware: Macbook pro (M1 Pro chip), 32GB ram
 #
 
 ## Setup
