@@ -26,7 +26,7 @@ Import the DB template "templateDB.sql" into your MySQL under the DB name "muzee
 should create a table called "cachedPages" with various columns.
 
 The MySQL database needs to stay running throughout the execution of the steps described in this README.
-
+#
 ### Step 2. Create necessary folders
 At the top level of the local Muzeel repo, create the following directories:
 
@@ -34,14 +34,17 @@ At the top level of the local Muzeel repo, create the following directories:
 - outputs_internal
 - results_internal
 
+#
 ### Step 3. Create a list of sites
 
 Inside the endpoints.txt file list the sites that you are interested in running Muzeel on. Make sure that each site URL is on a separate line, and each site URL ends with a "/". This list is currently populated with the 29 endpoints that were used during the experiment.
 
+#
 ### Step 4. Update Muzeel configurations
 
 Edit the config.py file to reflect the database configurations that you have chosen. There are five main parameters to configure: 1) DB name, 2) MySQL username, 3) MySQL password, 4) full path to the local Muzeel git repo, and 5) the MySQL port number (default 3306).
 
+#
 ### Step 5. Install dependencies
 The subjects used for this study are located within the *todomvc* folder and are properly configured to run (inlcuding node modules), when the appropriate command is exectuted (as explained later), thus no dependencies need to be installed for them.
 
@@ -51,6 +54,7 @@ However, to host the web pages and run Muzeel, some Node and Python dependencies
 bash setup.sh
 ```
 
+#
 ### Step 6. Host websites
 Before executing Lacuna, the target web applications need to be hosted locally. To achieve this, run the following command in a terminal within the todomvc folder:
 
