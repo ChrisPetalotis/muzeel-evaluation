@@ -4,11 +4,11 @@
 This repo is a copy of [Muzeel](https://github.com/comnetsAD/Muzeel) with slight modifications to make it work properly for the evaluation of the performance of web applications hosted on localhost as part of a study that has been conducted by a Computer Science Master's student from the [Vrije Universiteit Amsterdam](https://vu.nl/nl). It contains all the necessary files to evaluate the performance of Muzeel, a dead code elimination tool, on a set of 29 web applications. These applications originate from the [TodoMVC project](https://todomvc.com/). This README file is based on the original, with edits made to describe the process that was followed for the study.
 
 Muzeel is a framework for the identification and elimination of unused JavaScript functions, also known as "deadcode". It is a black-box approach requiring neither knowledge of the code nor execution traces. The core design principle of Muzeel is to address the challenge of dynamically analyzing JavaScript after the page is loaded, by emulating all possible user interactions with the page, such that the used functions (executed when interactivity events fire) are accurately identified, whereas unused functions are filtered out and eliminated.
-#
+
 ## Paper
 You can find the paper [here].
 You can watch the presentation of Muzeel on this [video].
-#
+
 ## Requirements
 
 The steps described in this file were executed on a machine with the following hardware and software specifications:
@@ -17,7 +17,6 @@ The steps described in this file were executed on a machine with the following h
 - npm version: 8.19.2
 - python: 3.10.9
 - Hardware: Macbook pro (M1 Pro chip), 32GB ram
-#
 
 ## Setup
 ### Create MySQL database and required structure
@@ -113,6 +112,7 @@ When this command completes, two new files have been created in the statistics f
 
 The statistics folder also contains a file named *lacuna_statistics.csv* that was used to compare the performance results of Muzeel with the results of [Lacuna](https://github.com/S2-group/Lacuna).
 
+#
 ### Step 5. Generate graphs
 To visualise the differences between Muzeel and Lacuna on precision, recall, and f-score, the following command creates a box plot for each performance metric:
 
