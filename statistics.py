@@ -15,6 +15,9 @@ RANGES_PATH = os.path.join(script_dir, "ranges")
 
 
 def db_connection():
+    """
+    Creates a connection to a running MySQL database using the credentias import from <config>, and returns it.
+    """
     connection = pymysql.connect(
         host=db_details.get("host", "127.0.0.1"),
         user=db_details.get("username", "root"),
@@ -92,7 +95,17 @@ def get_unused_ranges_muzeel(target: str, js_files: list[dict], local: bool = Fa
 
 
 def get_unused_functions_gt(target):
+    """
+    Retrieves the ranges that have been identified as "dead" in the ground truth for each JavaScript file
+    of the specified <target>. It creates a new file that contains the unused ranges and the associated
+    file, called <target>_unused_functions.json and stored in the folder of the <target> in
+    examples.ground truth.
 
+    Arguments:
+        target (str): subject for which to create a dictionary that maps JavaScript file names to
+        dead function ranges
+
+    """
     all_path = f"{GROUNDTRUTH_PATH}/{target}/_all_functions.json"
     alive_path = f"{GROUNDTRUTH_PATH}/{target}/_alive_functions.json"
     unused_path = f"{GROUNDTRUTH_PATH}/{target}/_unused_functions.json"
@@ -100,7 +113,6 @@ def get_unused_functions_gt(target):
     unused_functions = []
 
     with open(all_path) as all_functions, open(alive_path) as alive_functions:
-
         # Load all detected functions into a list
         try:
             all_js = json.load(all_functions)
@@ -135,8 +147,8 @@ def get_unused_functions_gt(target):
 
                 if not isAlive:
                     unused_functions.append(all_function)
-                    # Muzeel's end value for each range has an offset of +1, so we subtract 1 from the end value of
-                    # bodyRange in ground truth to perform comparisons correctly
+                    # Muzeel's end value for each range has an offset of +1 compared to the ground truth values, so we
+                    # subtract 1 from the end value of bodyRange in ground truth to perform comparisons correctly
                     unused_functions[-1]["bodyRange"][1] -= 1
 
             number_of_all = len(all_js)
@@ -158,11 +170,19 @@ def get_unused_functions_gt(target):
 
 
 def get_positives(unused_muzeel: list[dict], unused_gt: list[dict]):
+    """
+    Computes the number of true positives and false positives that Muzeel detected for a certain endpoint, when its
+    findings about unused code are compared with the values of the ground truth. Returns the number of true and false
+    positives.
+
+    Arguments:
+        unused_muzeel (list[dict]): list that contains entries with information about identified unused code by Muzeel
+        unused_gt (list[dict]): list that contains entries with information about identified unused code in ground truth
+    """
     true_positives = 0
     false_positives = 0
     # The number of ranges that Muzeel detects corresponds to the number of functions that are considered to be unused
     total_muzeel_ranges = 0
-    # print(muzeel_ranges.keys())
 
     # For each file detected by Muzeel
     for filename_muz, ranges_muz in unused_muzeel.items():
@@ -174,15 +194,13 @@ def get_positives(unused_muzeel: list[dict], unused_gt: list[dict]):
             for r_muz in ranges_muz:
                 found = False
                 for r_gt in ranges_gt:
-                    # print(r_muz, ",".join([str(r_gt[0]), str(r_gt[1])]))
-                    # break
                     if r_muz == ",".join([str(r_gt[0]), str(r_gt[1])]):
                         found = True
                         true_positives += 1
                         break
                 if not found:
                     false_positives += 1
-                # break
+
         # If the file identified by Muzeel does not exist in the ground truth at all, then all the detected
         # ranges in the Muzeel file are considered false positives
         else:
@@ -192,6 +210,14 @@ def get_positives(unused_muzeel: list[dict], unused_gt: list[dict]):
 
 
 def get_false_negatives(unused_muzeel: list[dict], unused_gt: list[dict]):
+    """
+    Computes the number of false negatives that Muzeel detected for a certain endpoint, when its findings about unused
+    code are compared with the values of the ground truth. Returns the number of false negatives.
+
+    Arguments:
+        unused_muzeel (list[dict]): list that contains entries with information about identified unused code by Muzeel
+        unused_gt (list[dict]): list that contains entries with information about identified unused code in ground truth
+    """
     false_negatives = 0
 
     for filename_gt, ranges_gt in unused_gt.items():
@@ -216,9 +242,18 @@ def get_false_negatives(unused_muzeel: list[dict], unused_gt: list[dict]):
 
 def get_prf(true_positives: int, false_positives: int, false_negatives: int):
     """
-    precision = TruePositives / (TruePositives + FalsePositives)
-    recall = TruePositives / (TruePositives + FalseNegatives)
-    fscore = 2 x [(Precision x Recall) / (Precision + Recall)]
+    Calculates the precision, recall, and f-score metrics, based on the <true_positive>, <false_positive>,
+    and <false_negative> values provided.
+
+    These metrics are calculated as follows:
+        precision = TruePositives / (TruePositives + FalsePositives)
+        recall = TruePositives / (TruePositives + FalseNegatives)
+        fscore = 2 x [(Precision x Recall) / (Precision + Recall)]
+
+    Arguments:
+        true_positives (int): number of true positives
+        false_positives (int): number of false positives
+        false_negatives (int): number of false negatives
     """
     precision = true_positives / (true_positives + false_positives)
     recall = true_positives / (true_positives + false_negatives)
@@ -237,9 +272,14 @@ def get_stats(
     unused_gt: list[dict],
 ):
     """
-    For a certain range in a file:
-      true positives: say it is unused and it is indeed unused
-      false positives: say it is unused but it is used
+    Generates statistics and metrics based on the unused values that muzeel produces for a certain endpoint
+    and the values in the ground truth. It returns information about true_positives the false_positives
+    false_negatives, precision, recall, and fscore.
+
+    Arguments:
+        muzeel_files (int): the number of JavaScript files that Muzeel detects for an endpoint
+        unused_muzeel (list[dict]): list that contains the files considered as unused by Muzeel
+        unused_gt (list[dict]): list that contains the files considered as unused in the ground truth
     """
 
     total_muzeel_ranges, true_positives, false_positives = get_positives(
@@ -268,6 +308,13 @@ def get_stats(
 
 
 def generate_descriptive_statistics(metric: str):
+    """
+    Generates descriptive statistics for the <metric> based on the values stored in the
+    muzeel_statistics.csv file.
+
+    Arguments:
+        metric (str): name of metric to calculate desriptive statitstics for
+    """
     df = pd.read_csv("statistics/muzeel_statistics.csv")
 
     min_val = df[metric].min()
@@ -281,11 +328,10 @@ def generate_descriptive_statistics(metric: str):
 
 
 if __name__ == "__main__":
-    # Get JavaScript files for target webpage
+    # Get JavaScript files for target webpage and create a file called muzeel_statistics.csv within the statistics dir
     with open(f"{script_dir}/endpoints.txt") as endpoints, open(
         f"{script_dir}/statistics/muzeel_statistics.csv", "w"
     ) as statistics:
-
         writer = csv.writer(statistics)
         header = [
             [
@@ -305,7 +351,6 @@ if __name__ == "__main__":
         writer.writerows(header)
 
         for endpoint in endpoints:
-
             endpoint = endpoint.rstrip().split("/")
             target = (
                 endpoint[-2] if not ".html" in endpoint[-1] else "/".join(endpoint[-2:])
@@ -363,6 +408,8 @@ if __name__ == "__main__":
             ]
             writer.writerows([stats])
 
+    # Creates a file muzeel_descriptive_statistics_prf in the statistics dir. Descriptive statistics about the
+    # performance metrics of Muzeel across all endpoints are computed and stored in it.
     with open(
         f"{script_dir}/statistics/muzeel_descriptive_statistics_prf.csv", "w"
     ) as desc_statistics:

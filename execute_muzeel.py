@@ -2,7 +2,6 @@ import os
 import sys
 import subprocess
 
-
 script_dir = os.path.dirname(__file__)  # Absolute dir path the script is in
 
 with open(f"{script_dir}/endpoints.txt") as endpoints:

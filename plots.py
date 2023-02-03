@@ -14,11 +14,13 @@ for index, row in muzeel_stats_df.iterrows():
     if not row["Subject"] in list(lacuna_stats_df["Subject"]):
         muzeel_stats_df.drop(index, inplace=True)
 
+# Labels the data for Muzeel and Lacuna to enable the creation of comparison plots
 muzeel_stats_df["Data"] = "Muzeel"
 lacuna_stats_df["Data"] = "Lacuna"
 
 comb = pd.concat([muzeel_stats_df, lacuna_stats_df])
 
+# Creates a plot comparing Muzeel with Lacuna for each metric separately.
 for metric in ["Precision", "Recall", "F-Score"]:
     comb.boxplot(column=[metric], by="Data")
     plt.suptitle(f"{metric}: Lacuna vs Muzeel", fontsize=20)
